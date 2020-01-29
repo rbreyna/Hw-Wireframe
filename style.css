@@ -1,0 +1,35 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960 px;
+    font-size: 18 px;
+}
+
+header, nav, section, aside, footer{
+    background: #ebebeb;
+}
+
+article{
+    color: #ebebeb;
+}
+
+h1, p{
+    color:#777;
+    background: #ebebeb;
+}
+
+section{
+    width: 495 px;
+}
+
+#Menu_Links{
+    font-size: 18px;
+}
+
+#Menu_Links a{
+    color: rgb(196, 5, 5);
+}
+header, nav{
+    text-align: center;
+}

@@ -6,8 +6,10 @@ body{
     font-size: 18 px;
 }
 
-header, nav, section, aside, footer{
+header, nav, aside, footer{
     background: #ebebeb;
+    margin-left: 7%;
+    margin-right: 7%;
 }
 
 article{
@@ -19,8 +21,14 @@ h1, p{
     background: #ebebeb;
 }
 
+aside{
+    width: ;
+}
 section{
-    width: 495 px;
+    margin-left: 7%;
+    background: #ebebeb;
+    float: left;
+    width: 495px;
 }
 
 #Menu_Links{
